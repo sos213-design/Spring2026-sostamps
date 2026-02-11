@@ -1,0 +1,35 @@
+body{    
+    background-color: powderblue;
+}
+
+.main{
+    text-align: center;
+    list-style-position: inside;
+    text-wrap: balance;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.main h1{
+    color: Indigo;
+    text-wrap-mode: nowrap;
+}
+.main h5{
+    color: forestgreen;
+}
+.main ul{
+    color: rebeccapurple;
+}
+
+.main p{
+    color: darkred;
+}
+.main a{
+    color: deeppink;
+}
+
+
+
+
+
+
